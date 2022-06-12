@@ -1,4 +1,5 @@
-#DATABASE
+DATABASE
+
 CREATE DATABASE test;
 
 USE test;
